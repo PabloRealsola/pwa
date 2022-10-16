@@ -15,7 +15,7 @@ var urlToCache = [
     'img/grimeylogo.jpg',
     'img/hombre.jpg',
     'img/menu-logo.png',
-    'img/mujer.jpg',
+    'img/mujer.jpg'
 ];
 
 // Evento install
